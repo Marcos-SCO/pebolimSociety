@@ -1,7 +1,7 @@
 {
-  "name": "flouristxflourist",
+  "name": "Pebolim Society",
   "version": "1.0.0",
-  "description": "Flourist x Flourist",
+  "description": "Pebolim Society",
   "main": "index.js",
   "scripts": {
     "dev": "webpack -w --mode=development",
