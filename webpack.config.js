@@ -61,6 +61,10 @@ module.exports = {
       patterns: [
         /* { from: 'resources/index.html', to: './' }, */
         {
+          from: 'resources/lib/',
+          to: 'lib/'
+        },
+        {
           from: 'resources/img/',
           to: 'img/'
         },
