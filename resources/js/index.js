@@ -1,1 +1,1 @@
-console.log('hello Warudo');
+import './swiper';
