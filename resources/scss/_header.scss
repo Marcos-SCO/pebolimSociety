@@ -37,8 +37,8 @@
     // height: calc(100vh - 3rem);
     
     @media (min-width: 700px) {
-      min-height: 700px;
-      max-height: 700px;
+      min-height: 600px;
+      max-height: 600px;
     }
 
     object-fit: cover;
@@ -61,7 +61,7 @@
     }
 
     @media (min-width: 1285px) {
-      bottom: 15rem;
+      bottom: 10rem;
     }
 
     h5 {
@@ -94,7 +94,7 @@
     bottom: 3rem;
 
     @media (min-width: 1285px) {
-      bottom: 8rem;
+      bottom: 2rem;
     }
 
     button {
